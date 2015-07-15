@@ -2,9 +2,11 @@
 
 Prototype tools for viewing and co-ordinating ALARRM observations en masse.
 
-## Installation:
+## Getting this code:
 
-From this directory:
+    git clone https://github.com/timstaley/alarrmhub.git
+
+## Installation:
 
     pip install drive-ami
     pip install ipython[notebook] pandas # (Optional)
@@ -31,3 +33,9 @@ in notebook 'load_obs_metadata.ipynb' show how to do this (or see also
 demos how you can start to display and filter the metadata using 
 [Pandas](http://pandas.pydata.org/). 
 
+## Running the notebook:
+From this directory:
+    
+    ipython notebook
+    
+Then click on the relevant link.
