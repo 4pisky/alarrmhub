@@ -4,7 +4,7 @@ Prototype tools for viewing and co-ordinating ALARRM observations en masse.
 
 ## Getting this code:
 
-    git clone https://github.com/timstaley/alarrmhub.git
+    git clone https://github.com/4pisky/alarrmhub.git
 
 ## Installation:
 
